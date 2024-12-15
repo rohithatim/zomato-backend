@@ -3,7 +3,7 @@
 3. run with npm start
 
 4. login functionality is not implemented
-5. try hitting the routes
+5. routes
 
 - users
 - restaurants
